@@ -4,4 +4,4 @@ TASK 05: Develop a model that can accurately recognize food items from images an
 
 DATASET: https://www.kaggle.com/dansbecker/food-101
 
-(Due to lack of knowledge the code is not up to the mark, visit again in 7-10 days to get the improvised code)
+(Due to lack of knowledge, the code is not up to the mark, visit again in 7-10 days to get the improvised code)
